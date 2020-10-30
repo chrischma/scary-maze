@@ -10,3 +10,5 @@ You might remember the old [scary-maze](https://www.youtube.com/watch?v=469zNXTC
 1. Download all files. 
 2. Run `python3 game.py`. 
 3. Enjoy!
+
+![alt text](https://github.com/chrischma/scary-maze/blob/main/assets/images/menu.png?raw=true "Logo Title Text 1")
