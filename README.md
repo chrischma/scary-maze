@@ -1,5 +1,5 @@
 # scary-maze
-A python of the classic scary maze browser game.
+A python remake of the classic scary maze browser game.
 
 ## About
 
